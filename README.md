@@ -50,5 +50,7 @@ Font Awesome - Icons
 🚀 Quick Start
 Prerequisites
 Java 21
-
 Maven 3.6+
+
+Access the application
+Main Dashboard: http://localhost:8080
